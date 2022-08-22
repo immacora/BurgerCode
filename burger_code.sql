@@ -2,7 +2,6 @@
 -- version 5.0.2
 -- https://www.phpmyadmin.net/
 --
--- Hôte : 127.0.0.1:3306
 -- Généré le : ven. 27 août 2021 à 13:40
 -- Version du serveur :  8.0.21
 -- Version de PHP : 7.4.9
